@@ -1,4 +1,4 @@
-﻿<model version="7" publish="23">
+<model version="7" publish="23">
   <entities>
     <entity schema="account">
       <properties>

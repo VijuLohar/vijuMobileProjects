@@ -1,4 +1,4 @@
-﻿<fetchcollection>
+<fetchcollection>
   <fetch version="1.0">
     <entity name="account">
       <filter type="and">

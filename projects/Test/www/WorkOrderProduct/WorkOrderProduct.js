@@ -1,4 +1,4 @@
-﻿var FS = FS || {};
+var FS = FS || {};
 
 FS.WorkOrderProduct = {
     initialLineStatus: null,

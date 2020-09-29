@@ -1,4 +1,4 @@
-﻿/// <reference path="../JSBridge.js" />
+/// <reference path="../JSBridge.js" />
 /// <reference path="../Schema.js" />
 /// <reference path="../Common.js" />
 
