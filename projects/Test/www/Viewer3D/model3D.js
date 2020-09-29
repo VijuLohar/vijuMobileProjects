@@ -1,4 +1,4 @@
-﻿var FS = FS || {};
+var FS = FS || {};
 
 FS.Viewer3D = {    localization: null,    // setup viewer refresh, on property change    onViewerLoad: function () {        MobileCRM.Localization.initialize(FS.Viewer3D.storeLocalizationAndChangeTitle, MobileCRM.bridge.alert);        MobileCRM.UI.EntityForm.requestObject(FS.Viewer3D.setModelSource, MobileCRM.bridge.alert);
         MobileCRM.UI.EntityForm.onChange(FS.Viewer3D.setModelSource, true, null);
